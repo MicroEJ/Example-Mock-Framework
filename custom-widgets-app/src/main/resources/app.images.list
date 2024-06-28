@@ -1,0 +1,6 @@
+# Copyright 2021-2022 MicroEJ Corp. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be found with this software.
+
+/images/microej_banner.png:RGB565
+/images/rounded-corner.png:A4
+/images/rounded-corner-bottom.png:A4
